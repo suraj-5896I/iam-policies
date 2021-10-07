@@ -1,0 +1,9 @@
+arn:aws:iam::084778573759:policy/billing
+arn:aws:iam::084778573759:policy/EC2ReadAll
+arn:aws:iam::084778573759:policy/EC2WriteCopyImage
+arn:aws:iam::084778573759:policy/EC2WriteModifyVolume
+arn:aws:iam::084778573759:policy/IAMCreatePolicy
+arn:aws:iam::084778573759:policy/IAMListUser
+arn:aws:iam::084778573759:policy/S3DeleteBucket
+arn:aws:iam::084778573759:policy/S3ListBucket
+arn:aws:iam::084778573759:policy/s3ReadAll
